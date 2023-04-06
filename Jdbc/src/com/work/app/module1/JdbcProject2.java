@@ -1,4 +1,4 @@
-package com.girmiti.app.module1;
+package com.work.app.module1;
 
 import java.sql.Connection;
 import java.sql.DriverManager;

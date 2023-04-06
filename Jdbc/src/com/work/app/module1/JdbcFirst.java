@@ -1,4 +1,4 @@
-package com.girmiti.app.module1;
+package com.work.app.module1;
 
 import java.sql.*; //1st step of jdbc importing all the packages
 
